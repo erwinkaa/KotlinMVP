@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KADE2018</string>
+
+    <string name="TOAST_FAVORITE">Added to Favorite</string>
+    <string name="TOAST_UNFAVORITE">Removed from Favorite</string>
+    <string name="nextmatch">Next Match</string>
+    <string name="lastmatch">Last Match</string>
+    <string name="matches">Matches</string>
+    <string name="teams">Teams</string>
+    <string name="favorites">Favorites</string>
+    <string name="notavail">Data tidak ada</string>
+    <string name="pressexitagain">Tekan lagi untuk keluar</string>
+    <string name="overview">Overview</string>
+    <string name="players">Players</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="height">Height (m)</string>
+    <string name="search">Search Match</string>
+
+</resources>
